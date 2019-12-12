@@ -250,8 +250,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             PenampilDialog = PembentukDialog.create();
             PenampilDialog.show();
         }
-
     }
-
-
 }
